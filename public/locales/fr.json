@@ -1,0 +1,8 @@
+{
+  "title": "Mon application Next.js",
+  "itemList": "Liste des articles",
+  "viewDetails": "Voir les détails",
+  "loading": "Chargement...",
+  "backToHome": "Retour à l'accueil",
+  "footerText": "© 2024 My Next.js App. All rights reserved."
+}
